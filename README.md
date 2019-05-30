@@ -51,7 +51,7 @@ The Numeracy-600K dataset includes two subsets:
 ## How to Cite the Corpus
 Please cite the following paper when referring to the Numeracy-600K in academic publications and papers.
 
-Chung-Chi Chen, Hen-Hsen Huang, and Hsin-Hsi Chen. 2019. Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), Florence, Italy.
+Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), Florence, Italy.
 
 ## License
 Numeracy-600K is licensed under the Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
