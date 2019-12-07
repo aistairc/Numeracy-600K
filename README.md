@@ -3,6 +3,10 @@
 ## Introduction
 Numeral is the crucial part of in narrative, especially in financial documents. We should not only analyze the text, but also need to assay the numeric information in depth. Numeracy-600K is a dataset for testing the numeracy of machines.
 
+## How to get the full dataset of market comments?
+Please write us an email with the agreement.
+Email Address: cjchen@nlg.csie.ntu.edu.tw
+
 ## Format
 The Numeracy-600K dataset includes two subsets:
 
@@ -56,6 +60,6 @@ Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura and Hsin-Hsi Chen. 2019. Numerac
 ## License
 Numeracy-600K is licensed under the Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
-The full text of market comments are owned by Reuters.
+The full text of market comments are owned by Refinitiv https://www.refinitiv.com/en.
 
 The full text of article titles are prepared by Rohit Kulkarni, and under CC0: Public Domain license.
