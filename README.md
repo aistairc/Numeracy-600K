@@ -4,8 +4,8 @@
 Numeral is the crucial part of in narrative, especially in financial documents. We should not only analyze the text, but also need to assay the numeric information in depth. Numeracy-600K is a dataset for testing the numeracy of machines.
 
 ## How to get the full dataset of market comments?
-Please write us an email with the agreement.
-Email Address: cjchen@nlg.csie.ntu.edu.tw
+Please download the dataset from the following link: https://drive.google.com/open?id=14UTIytsVspqQuR5cAT7B3zYVaSMFeUF9
+
 
 ## Format
 The Numeracy-600K dataset includes two subsets:
